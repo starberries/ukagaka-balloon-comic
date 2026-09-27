@@ -9,7 +9,7 @@ use_input_alpha,1
 name,Starberries Comic Balloon
 craftman,Mai Starberries
 craftmanurl,https://maistarberries.carrd.co/
-homeurl,
+homeurl,https://github.com/starberries/ukagaka-balloon-comic
 
 
 //——— Display area ———
