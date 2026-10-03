@@ -16,10 +16,10 @@ homeurl,https://github.com/starberries/ukagaka-balloon-comic
 origin.x,0
 origin.y,0
 
-validrect.left,35
-validrect.top,35
-validrect.right,-60
-validrect.bottom,-35
+validrect.left,55
+validrect.top,50
+validrect.right,-80
+validrect.bottom,-40
 
 //wordwrappoint.x,0
 
