@@ -48,16 +48,16 @@ disable.font.color.b,178
 
 
 //——— Arrows ———
-arrow0.x,-18
-arrow0.y,5
+// arrow0.x,-90
+// arrow0.y,80
 
-arrow1.x,-18
-arrow1.y,-20
+// arrow1.x,-90
+// arrow1.y,-80
 
 
 //——— Online marker ———
-onlinemarker.x,5
-onlinemarker.y,-18
+// onlinemarker.x,-90
+// onlinemarker.y,-80
 
 //onlinemarker.interval,175
 
