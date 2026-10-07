@@ -20,6 +20,10 @@ Comic-style balloon made to go with my ukagaka/ghosts!
 
 - [Bee](https://github.com/starberries/ukagaka-bee)
 
+#### How to Install Ghosts/SSP
+
+If you've never installed ukagaka/ghosts before, they're used through a program called a baseware. Most people, myself included, use SSP. You can find a quick guide on [installing SSP and ghosts here!](https://ukagakadreamteam.com/wiki/guide/beginner_guide#how_to_install_ghosts)
+
 ### Author + Credits
 
 Created by Mai Starberries
