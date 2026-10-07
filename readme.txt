@@ -1,1 +1,0 @@
-"Comic-style balloon made to go with my ukagaka/ghosts!
