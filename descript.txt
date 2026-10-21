@@ -18,7 +18,7 @@ origin.x,0
 origin.y,0
 
 validrect.left,80
-validrect.top,50
+validrect.top,40
 validrect.right,-80
 validrect.bottom,-40
 
